@@ -1,6 +1,6 @@
 # ChatGPT_Clone
 
-This is the code for "I Built a ChatGPT Clone of Myself!" by Siraj Raval on Youtube
+This is the code for "I Built a ChatGPT Clone of Sartaj"
 
 ## Overview 
 
